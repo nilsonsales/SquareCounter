@@ -1,2 +1,2 @@
 # SquareCounter
-Implementing an Artificial Neural Network to identify and count squares in a matrix
+Implementation of an Artificial Neural Network to identify and count squares in a matrix
